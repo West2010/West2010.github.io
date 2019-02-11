@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 layout: collection
-permalink: /posts/
+permalink: /postsGrid/
 collection: posts
 entries_layout: grid
 ---
