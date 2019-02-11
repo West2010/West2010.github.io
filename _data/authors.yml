@@ -1,7 +1,7 @@
 Matthew West:
   name        : "Matthew West"
   bio         : "Likes Hippos"
-  avatar      : "/assets/images/book.png"
+  avatar      : "/assets/images/lion.png"
   #links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
@@ -16,4 +16,4 @@ Matthew West:
 Max Benowitz:
   name        : "Max Benowitz"
   bio         : "A Deal Gone Sour"
-  avatar      : "/assets/images/lion.png"
+  avatar      : "/assets/images/weirdThing.png"
