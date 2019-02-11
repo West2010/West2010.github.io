@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Test 002"
 excerpt: "Wow"
 ---
