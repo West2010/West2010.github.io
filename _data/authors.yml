@@ -1,7 +1,7 @@
 Matthew West:
   name        : "Matthew West"
   bio         : "Likes Hippos"
-  avatar      : "/assets/images/lion.png"
+  avatar      : "/assets/images/book.png"
   #links:
     #- label: "Email"
     #  icon: "fas fa-fw fa-envelope-square"
