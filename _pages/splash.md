@@ -11,7 +11,7 @@ header:
   caption: "A hippo from wikipedia"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Where does this go? Centered with `type="center"`'
+  - excerpt: 'Where does this go?'
 
 ---
 
