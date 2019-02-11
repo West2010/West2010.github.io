@@ -1,0 +1,19 @@
+Matthew West:
+  name        : "Matthew West"
+  bio         : "Likes Hippos"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  #links:
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:billyrick@rick.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://thewhip.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/extravagantman"
+
+Max Benowitz:
+  name        : "Max Benowitz"
+  bio         : "A Deal Gone Sour"
+  avatar      : "/assets/images/bio-photo.jpg"
