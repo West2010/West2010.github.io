@@ -10,7 +10,7 @@ header:
 
   caption: "Yosemite"
 excerpt: "A restrospective look back at all things 2010-2019 from the perspective of
-people barely old enough to have experienced all of it."
+people barely old enough to have actually experienced it."
 intro: 
   - excerpt: 'Where does this go?'
 
