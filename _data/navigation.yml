@@ -6,5 +6,7 @@ main:
     url: /podcasts/
   - title: "About"
     url: /about/
+  - title: "Topics"
+    url: /tags-archive/
   - title: "Search"
     url: /search/
