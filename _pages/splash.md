@@ -9,7 +9,8 @@ header:
   overlay_image: /assets/images/Yosemite.jpg
 
   caption: "Yosemite"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "A restrospective look back at all things 2010-2019 from the perspective of
+people barely old enough to have experienced all of it."
 intro: 
   - excerpt: 'Where does this go?'
 
