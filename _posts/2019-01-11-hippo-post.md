@@ -11,3 +11,5 @@ Banana Bread
   <img src="/assets/images/hippo.jpg" alt="this is a placeholder image">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
+
+![Hippo](/assets/images/hippo.jpg){: .align-right}
