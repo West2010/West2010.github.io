@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#069"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/timeline.jpg
+  overlay_image: /assets/images/largeClock.jpg
 
   caption: "Time."
 excerpt: "A restrospective look back at all things 2010-2019 from the perspective of
