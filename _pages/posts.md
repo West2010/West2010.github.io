@@ -8,7 +8,6 @@ author_profile: false
 <<<<<<< HEAD
 pagination: 
   enabled: true
-  paginate: 1
   category: posts
 ---
 <ul>
