@@ -3,9 +3,8 @@ title: "Posts"
 layout: collection
 permalink: /postsGrid/
 collection: posts
-entries_layout: grid
+entries_layout: list
 author_profile: false
-<<<<<<< HEAD
 pagination: 
   enabled: true
   paginate: 1
@@ -26,6 +25,3 @@ pagination:
     <a href="{{ paginator.next_page_path }}">Older Posts</a>
   {% endif %}
 {% endif %}
-=======
----
->>>>>>> parent of a53e5f5... Experimental non-index pagination
