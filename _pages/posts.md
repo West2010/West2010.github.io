@@ -7,6 +7,7 @@ entries_layout: list
 author_profile: false
 pagination: 
   enabled: true
+  paginate: 1
   category: posts
 ---
 <ul>
