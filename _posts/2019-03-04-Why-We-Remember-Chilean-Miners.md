@@ -2,9 +2,8 @@
 title: "Why We Remember: Chilean Miners"
 author: Matthew West
 header: 
-	image: /assets/images/miners.jpg
-	caption: "Source [**Wikimedia**](https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident#/media/File:Mina_San_Jos%C3%A9_-_Luis_Urz%C3%BAa_-_Gobierno_de_Chile.jpg)"
-
+  image: /assets/images/miners.jpg
+  caption: "Source [**Wikimedia**](https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident#/media/File:Mina_San_Jos%C3%A9_-_Luis_Urz%C3%BAa_-_Gobierno_de_Chile.jpg)"
 ---
 
 *In Why We Remember, I look back at a pervading cultural myth and try to understand why anyone even cares anymore.*
