@@ -15,6 +15,8 @@ people barely old enough to have actually experienced it."
 <h1> 2010 </h1>
 For the month of March we are taking it back to the year 2010. It's basically the same as 2019, but join us as well pull the "International Year of Youth", and Biodiversity, apart. Hopefully we find more than Justin Bieber and Swine Flu.
 
+**Phones**
+
 **Billboard Top 10**
 
 | Rank | Song | Artist |
@@ -32,7 +34,7 @@ For the month of March we are taking it back to the year 2010. It's basically th
 |=====
 {: rules="groups"} 
 
-82nd Academy Awards
+**82nd Academy Awards**
 
 | Category | Movie |Winner|
 |:--------|:-------:|--------:|
