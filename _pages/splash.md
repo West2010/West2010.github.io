@@ -16,10 +16,10 @@ toc: true
 ---
 Welcome!
 
-##2010
+## 2010
 For the month of March we are taking it back to the year 2010. It's basically the same as 2019, but join us as well pull the "International Year of Youth", and Biodiversity, apart. Hopefully we find more than Justin Bieber and Swine Flu.
 
-###Billboard Top 10
+### Billboard Top 10
 
 | Rank | Song | Artist |
 |:--------|:-------:|--------:|
@@ -36,7 +36,7 @@ For the month of March we are taking it back to the year 2010. It's basically th
 |=====
 {: rules="groups"} 
 
-###82nd Academy Awards
+### 82nd Academy Awards
 
 | Category | Movie |Winner|
 |:--------|:-------:|--------:|
@@ -67,4 +67,4 @@ For the month of March we are taking it back to the year 2010. It's basically th
 |=====
 {: rules="groups"} 
 
-##2011
+## 2011
