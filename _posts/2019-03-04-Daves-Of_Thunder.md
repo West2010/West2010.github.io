@@ -1,10 +1,11 @@
 ---
-title: "Daves of Thunder: Okey Dokey"
+title: "Daves of Thunder Review -  Okey Dokey!"
 author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
   caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
 ---
+*Daves of Thunder is an oddball comedey podcast hosted by David Feeney and Dave Dameshek that aired its first episode on March 2 2010.*
 
 2010 was home to many important cultural events: Lost ended, the New Orleans Saints won their first super bowl, and I was told I would have more success in school if I dropped out of pre-algebra. And yet, all of this would eventually fade into Wikipedia pages and reddit communities, allowing history to leave us with the most important cultural landmark of the year: the unemployment of screenwriter David Feeney and radio personality Dave Dameshek, leading to the subsequent creation of the greatest podcast of all time: Daves of Thunder.   
 	
