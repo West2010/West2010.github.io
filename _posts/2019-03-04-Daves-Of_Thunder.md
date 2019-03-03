@@ -1,6 +1,5 @@
 ---
 title: "Daves of Thunder: Okey Dokey"
-layout: post
 author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
