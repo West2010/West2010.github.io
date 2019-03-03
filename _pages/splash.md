@@ -13,6 +13,12 @@ header:
 excerpt: "A restrospective look back at all things 2010-2019 from the perspective of
 people barely old enough to have actually experienced it."
 ---
+Welcome!
+```yaml
+---
+toc: true
+---
+```
 ##2010
 For the month of March we are taking it back to the year 2010. It's basically the same as 2019, but join us as well pull the "International Year of Youth", and Biodiversity, apart. Hopefully we find more than Justin Bieber and Swine Flu.
 
@@ -64,4 +70,4 @@ For the month of March we are taking it back to the year 2010. It's basically th
 |=====
 {: rules="groups"} 
 
-##2011##
+##2011
