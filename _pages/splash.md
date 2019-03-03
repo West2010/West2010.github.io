@@ -34,7 +34,7 @@ Billboard Top 10
 
 82nd Academy Awards
 
-| Rank | Song | Artist |
+| Category | Movie |Winner|
 |:--------|:-------:|--------:|
 | Best Picture  | The Hurt Locker   | Kathryn Bigelo|
 | Best Director  | The Hurt Locker   | Kathryn Bigelo|
