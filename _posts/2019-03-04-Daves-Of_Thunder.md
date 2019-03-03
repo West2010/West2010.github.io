@@ -2,7 +2,6 @@
 title: "Daves of Thunder: Okey Dokey"
 layout post
 author: Max Benowitz
-tags: [daves, podcast]
 header: 
   image: /assets/images/daves1.jpg
   caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
