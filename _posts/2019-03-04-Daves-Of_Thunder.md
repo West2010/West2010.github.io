@@ -2,7 +2,7 @@
 Title: "Daves of Thunder: Okey Dokey"
 Author: Max Benowitz
 header: 
-  image: /assets/images/daves1.png
+  image: /assets/images/daves1.jpg
   caption: "Source [**Shekpedia**(https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
 ---
 
