@@ -1,9 +1,11 @@
 ---
-Title: "Daves of Thunder: Okey Dokey"
-Author: Max Benowitz
+title: "Daves of Thunder: Okey Dokey"
+layout post
+author: Max Benowitz
+tags: [daves, podcast]
 header: 
   image: /assets/images/daves1.jpg
-  caption: "Source [**Shekpedia**(https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
+  caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
 ---
 
 2010 was home to many important cultural events: Lost ended, the New Orleans Saints won their first super bowl, and I was told I would have more success in school if I dropped out of pre-algebra. And yet, all of this would eventually fade into Wikipedia pages and reddit communities, allowing history to leave us with the most important cultural landmark of the year: the unemployment of screenwriter David Feeney and radio personality Dave Dameshek, leading to the subsequent creation of the greatest podcast of all time: Daves of Thunder.   
