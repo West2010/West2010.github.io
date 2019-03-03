@@ -1,8 +1,9 @@
 ---
 Title: "Daves of Thunder: Okey Dokey"
+Author: Max Benowitz
 header: 
-  image: /assets/images/daves1.jpg
-  caption: "Source [**Wikimedia**](https://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident#/media/File:Mina_San_Jos%C3%A9_-_Luis_Urz%C3%BAa_-_Gobierno_de_Chile.jpg)"
+  image: /assets/images/daves1.png
+  caption: "Source [**Shekpedia**(https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
 ---
 
 2010 was home to many important cultural events: Lost ended, the New Orleans Saints won their first super bowl, and I was told I would have more success in school if I dropped out of pre-algebra. And yet, all of this would eventually fade into Wikipedia pages and reddit communities, allowing history to leave us with the most important cultural landmark of the year: the unemployment of screenwriter David Feeney and radio personality Dave Dameshek, leading to the subsequent creation of the greatest podcast of all time: Daves of Thunder.   
@@ -12,6 +13,8 @@ Turn of the decade podcasts are one of my biggest regrets. In 2019, Itunes is ov
 Dameshek, a frequent contributor, was granted a show on the network to host alongside his good friend David Feeney. The podcast began without a title (it was very nearly called “The Dave Dameshek Vanity Project” – a missed opportunity) and didn’t have a particular topic that it was about. At that same time, there was no topic it wasn’t about. The two Daves wouldn’t hold anything back: they’d request listener submitted sex stories, talk about the secret right-wing conspiracy theory leanings of producer Jacuzzi Pete (known for his long nights spent alone, apart from his wife, in his Jacuz), and argue about everything, from Dameshek’s dodging of paying for dinner to Feeney’s interactions with Bette Midler. 
 
 The genius of these discussions though, was the mixed realism of it all. Many of the tales told by the hosts or submitted by the listeners were pre-scripted by Feeney, while just as many of them were authentic. It made for a sort of blurred reality, where the drama of the show was constantly hilarious and intriguing, leaving listeners to guess whether or not what they were hearing was actually taking place or not. At one point, after a particularly cruel roasting of Jacuzzi Pete’s weight (Dameshek and Feeney speculated that he washed himself with rags on sticks), their producer stormed out of the studio, only returning to the show when a family therapist was brought on air to settle their differences. 
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/daves2.png){: .align-center}
 
 Though Daves never reached a massive base, due large in part to the short run of the podcast and limited reach of its creators, in the years past, a cult following has arisen around the project. A Daves of Thunder subreddit is still remarkably active (home of the BTLS and monkeys – nicknames for fans of the podcast coined by a maybe-fictional drunken rant Dameshek went on in one episode), and references to the incredibly risqué show frequently appeared on The New Girl of all programs – the sitcom that Feeney eventually would come to executive produce. Likewise, Dameshek was hired by the NFL in late 2010, eventually leading to his popular podcast The Dave Dameshek Football Program wherein sparse references to Daves of Thunder sparked new listeners to go back and hear the entire original run of the podcast. 
 
