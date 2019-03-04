@@ -1,17 +1,10 @@
 ---
-title: "Daves of Thunder Review -  Gone Too Soon"
+title: "Post: Notice"
 categories:
   - Post Formats
 tags:
-  - Daves of Thunder
-  - Podcasts
-  - Gone Too Soon
-  - Comedy
-  - 2010
-author: Max Benowitz
-header: 
-  image: /assets/images/daves1.jpg
-  caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
+  - Post Formats
+  - notice
 ---
 *Daves of Thunder is an oddball comedey podcast hosted by David Feeney and Dave Dameshek that aired its first episode on March 2 2010.*
 
