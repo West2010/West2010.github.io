@@ -1,7 +1,7 @@
 ---
-title: "Daves of Thunder Review -  Gone Too Soon"
+title: "Daves of Thunder -  Gone Too Soon"
 categories:
-  - Post Formats
+  - "2010"
 tags:
   - Daves of Thunder
   - Podcasts
@@ -13,7 +13,7 @@ header:
   image: /assets/images/daves1.jpg
   caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
 ---
-*Daves of Thunder is an oddball comedey podcast hosted by David Feeney and Dave Dameshek that aired its first episode on March 2 2010.*
+*Daves of Thunder is an oddball comedy podcast hosted by David Feeney and Dave Dameshek that aired its first episode on March 2 2010.*
 
 > Okie Dokie!
 
