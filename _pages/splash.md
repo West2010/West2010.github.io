@@ -71,7 +71,7 @@ For the month of March we are taking it back to the year 2010. It's basically th
 | Best Visual Effects  | Avatar  | Joe Letteri, Stephen Rosenbaum, Richard Baneham, and Andrew R. Jones|
 |=====
 {: rules="groups"} 
-<a href = "#top" style = "color: gray" align = "right"> Back to top </a>
+<a href = "#top" style = "color: gray" style = "text-align: right"> Back to top </a>
 ## 2011
 <a href = "#top"> Back to top </a>
 ## 2012
