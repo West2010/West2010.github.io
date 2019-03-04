@@ -1,13 +1,10 @@
 ---
 title: "Daves of Thunder Review -  Gone Too Soon"
 categories:
-  - Post Formats
-tags:
-  - Daves of Thunder
-  - Podcasts
-  - Gone Too Soon
-  - Comedy
   - 2010
+tags:
+  - Post Formats
+  - notice
 author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
