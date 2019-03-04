@@ -1,7 +1,7 @@
 ---
 title: "Daves of Thunder Review -  Gone Too Soon"
 categories:
-  - 2010
+  - Post Formats
 tags:
   - Post Formats
   - notice
