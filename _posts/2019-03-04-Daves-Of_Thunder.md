@@ -1,5 +1,7 @@
 ---
 title: "Daves of Thunder Review -  Gone Too Soon"
+categories:
+  - Post Formats
 tags:
   - Daves of Thunder
   - Podcasts
