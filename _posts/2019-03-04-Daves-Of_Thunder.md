@@ -1,5 +1,7 @@
 ---
 title: "Daves of Thunder Review -  Gone Too Soon"
+categories:
+  - 2010
 tags:
   - Daves of Thunder
   - Podcasts
