@@ -1,10 +1,11 @@
 ---
-title: "Post: Notice"
+title: "Daves of Thunder Review -  Gone Too Soon"
 categories:
   - Post Formats
 tags:
   - Post Formats
   - notice
+author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
   caption: "Source [**Shekpedia**](https://dameshek.fandom.com/wiki/Daves_Of_Thunder)"
