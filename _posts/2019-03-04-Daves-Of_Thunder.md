@@ -1,5 +1,7 @@
 ---
 title: "Daves of Thunder Review -  Gone Too Soon"
+tags:
+  - daves of thunder
 author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
