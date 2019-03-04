@@ -5,6 +5,8 @@ categories:
 tags:
   - Daves of Thunder
   - Podcasts
+  - Gone Too Soon 
+  - Comedy
 author: Max Benowitz
 header: 
   image: /assets/images/daves1.jpg
