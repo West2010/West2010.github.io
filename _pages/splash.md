@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Our 2010s!"
-layout: single
+layout: splash
 permalink: /home/
 date: 2016-03-23T11:48:41-04:00
 header:
